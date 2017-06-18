@@ -22,10 +22,10 @@ MonoBehaviour:
     y: 30
     width: 1366
     height: 675
-  m_MinSize: {x: 909, y: 421}
-  m_MaxSize: {x: 22004, y: 10000}
+  m_MinSize: {x: 913, y: 421}
+  m_MaxSize: {x: 22008, y: 10021}
   vertical: 0
-  controlID: 5692
+  controlID: 6828
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -125,7 +125,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 421}
   m_MaxSize: {x: 4002, y: 8021}
   vertical: 1
-  controlID: 5693
+  controlID: 6776
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -144,8 +144,8 @@ MonoBehaviour:
     y: 0
     width: 605
     height: 348
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 5}
   m_Panes:
   - {fileID: 5}
@@ -212,9 +212,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -0.037491158, y: 0.0014989426, z: -0.000056236513, w: -0.99929583}
   m_Size:
-    m_Target: 7.671137
+    m_Target: 25.780619
     speed: 2
-    m_Value: 7.671137
+    m_Value: 25.780619
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -244,8 +244,8 @@ MonoBehaviour:
     y: 348
     width: 605
     height: 327
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 2}
   m_Panes:
   - {fileID: 2}
@@ -304,8 +304,8 @@ MonoBehaviour:
     height: 654
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
-    m_LastClickedID: 0
+    m_SelectedIDs: d6250000
+    m_LastClickedID: 9686
     m_ExpandedIDs: defbffff000000008c250000b6250000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -347,8 +347,8 @@ MonoBehaviour:
     y: 0
     width: 261
     height: 675
-  m_MinSize: {x: 230, y: 250}
-  m_MaxSize: {x: 10000, y: 10000}
+  m_MinSize: {x: 234, y: 271}
+  m_MaxSize: {x: 10004, y: 10021}
   m_ActualView: {fileID: 10}
   m_Panes:
   - {fileID: 10}
@@ -391,7 +391,7 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Materials
+    - Assets/Scripts
   m_ViewMode: 0
   m_StartGridSize: 64
   m_LastFolders: []
@@ -428,7 +428,7 @@ MonoBehaviour:
       m_ResourceFile: 
   m_AssetTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
+    m_SelectedIDs: d6250000
     m_LastClickedID: 0
     m_ExpandedIDs: 00000000ba240000e4240000f02400002a2500002c25000052250000
     m_RenameOverlay:
@@ -455,8 +455,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 
-    m_LastClickedInstanceID: 0
+    m_SelectedInstanceIDs: d6250000
+    m_LastClickedInstanceID: 9686
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: 
     m_RenameOverlay:
